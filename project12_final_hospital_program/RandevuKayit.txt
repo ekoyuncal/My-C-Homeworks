@@ -1,0 +1,18 @@
+Kbb Randevusu:
+Pazartesi icin randevu : 1. Saat
+Genel Cerrahi Randevusu:
+Pazartesi icin randevu : 1. Saat
+Dahiliye Randevusu:
+Pazartesi icin randevu : 1. Saat
+Goz Randevusu:
+Pazartesi icin randevu : 1. Saat
+Noroloji Randevusu:
+Pazartesi icin randevu : 1. Saat
+Genel Cerrahi Randevusu:
+Sali icin randevu : 2. Saat
+Dahiliye Randevusu:
+Sali icin randevu : 2. Saat
+Kbb Randevusu:
+Sali icin randevu : 2. Saat
+Goz Randevusu:
+Sali icin randevu : 2. Saat

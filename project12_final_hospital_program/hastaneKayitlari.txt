@@ -1,0 +1,21 @@
+------------------------YENI HASTA--------------------------------------------------
+Hasta ismi : mehmet
+Hasta Tc : 1234
+Hasta yasi : 30
+Hasta cinsiyeti : erkek
+Hasta boyu : 190
+Hasta kilosu : 90
+Hastalik gecmisi : qweqweqwe
+Hasta kan grubu : o+
+------------------------YENI HASTA--------------------------------------------------
+Hasta ismi : emir
+Hasta Tc : 1235
+Hasta yasi : 20
+Hasta cinsiyeti : erkek
+Hasta boyu : 177
+Hasta kilosu : 77
+Hastalik gecmisi : wqeweqweq
+Hasta kan grubu : o+
+
+------------------------------
+toplam hasta sayisi 2
